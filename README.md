@@ -10,8 +10,11 @@ This is a fast food landing page built using React and Tailwind, aimed at showca
 # Installation
 Clone the repository to your local machine:
 git clone https://github.com/your-username/fast-food-app.git
+
 cd fast-food-app
+
 Install the project dependencies:
+
 Using npm:
 
 npm install
